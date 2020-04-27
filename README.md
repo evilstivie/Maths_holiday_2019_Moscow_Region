@@ -1,9 +1,8 @@
 # Moscow regional tournament of young mathematicians 2019, 7th grade
-Problems for 7th grade, composed by me for Moscow regional tournament of young mathematicians (lan: Russian)
-+ The app that allows refreshing the page with olympiad's results
+Problems for 7th grade, composed by me for Moscow regional tournament of young mathematicians (lan: Russian) + The app that allows refreshing the page with olympiad's results</a>
 
 
-# Московский областной турнир юных математиков (МОТЮМ-I)
+# Московский областной турнир юных математиков <a href="https://anoo.ftl.name/news/71-i-moskovskiy-oblastnoy-turnir-yunykh-matematikov-motyum-i.htm">(МОТЮМ-I)</a>
 
 ## Правила математической игры «Пенальти»
 
